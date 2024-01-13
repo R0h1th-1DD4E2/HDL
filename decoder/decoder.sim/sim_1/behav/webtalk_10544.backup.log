@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Thu Dec 28 10:46:07 2023
+# Process ID: 10696
+# Log file: E:/1BM22EC201/decoder/decoder.sim/sim_1/behav/webtalk.log
+# Journal file: E:/1BM22EC201/decoder/decoder.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source E:/1BM22EC201/decoder/decoder.sim/sim_1/behav/xsim.dir/tb_decoder2x4_behav/webtalk/xsim_webtalk.tcl -notrace
+
+    while executing
+"webtalk_transmit -clientid 433816466 -regid "210997196_1777505744_0_125" -xml E:/1BM22EC201/decoder/decoder.sim/sim_1/behav/xsim.dir/tb_decoder2x4_beh..."
+    (file "E:/1BM22EC201/decoder/decoder.sim/sim_1/behav/xsim.dir/tb_decoder2x4_behav/webtalk/xsim_webtalk.tcl" line 32)
+INFO: [Common 17-206] Exiting Webtalk at Thu Dec 28 10:46:08 2023...
