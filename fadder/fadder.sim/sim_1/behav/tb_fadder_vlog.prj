@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  "../../../fadder.srcs/sources_1/new/fadder.v"
+verilog xil_defaultlib  "../../../fadder.srcs/sim_1/new/tb_fadder.v"
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
