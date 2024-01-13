@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2014 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="2" Path="E:/1BM22EC201/mux4_1/mux4_1.xpr">
+<Project Version="7" Minor="2" Path="D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/mux4_1/mux4_1.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="10efc9ca9e3c4857a2607cc0d5fa5e61"/>

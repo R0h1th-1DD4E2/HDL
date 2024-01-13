@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Sat Jan 13 17:49:28 2024
+# Process ID: 1192
+# Log file: D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/mux4_1/vivado.log
+# Journal file: D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/mux4_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/mux4_1/mux4_1.xpr}
+update_compile_order -fileset sources_1
+close_project
