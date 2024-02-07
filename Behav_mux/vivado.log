@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
+# IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
+# Start of session at: Wed Jan 31 09:34:38 2024
+# Process ID: 8172
+# Log file: D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/Behav_mux/vivado.log
+# Journal file: D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/Behav_mux\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/Behav_mux/Behav_mux.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2014.4/data/ip'.
+open_project: Time (s): cpu = 00:00:06 ; elapsed = 00:00:05 . Memory (MB): peak = 756.887 ; gain = 193.246
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Jan 31 09:35:03 2024...
