@@ -1,5 +1,2 @@
 Vivado Simulator 2014.4
 Time resolution is 1 ps
-At time                40000, D = 1, Q = x
-At time                80000, D = 1, Q = 1
-$finish called at time : 120 ns : File "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/Questions/Questions.srcs/sim_1/new/tb_QB_1.v" Line 53

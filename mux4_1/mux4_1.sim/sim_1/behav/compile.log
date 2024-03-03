@@ -1,7 +1,7 @@
 Determining compilation order of HDL files.
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/1BM22EC201/mux4_1/mux4_1.srcs/sources_1/new/mux_gate_4_1.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/mux4_1/mux4_1.srcs/sources_1/new/mux_gate_4_1.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module mux_gate_4_1
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/1BM22EC201/mux4_1/mux4_1.srcs/sim_1/new/tb_mux_gate_4_1.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/mux4_1/mux4_1.srcs/sim_1/new/tb_mux_gate_4_1.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module tb_mux_gate_4_1
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/1BM22EC201/mux4_1/mux4_1.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/mux4_1/mux4_1.sim/sim_1/behav/glbl.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module glbl

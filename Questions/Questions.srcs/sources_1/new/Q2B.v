@@ -37,3 +37,4 @@ module Q2B(
             B = temp;
         end 
 endmodule
+

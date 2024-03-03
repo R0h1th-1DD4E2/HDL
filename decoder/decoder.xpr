@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2014 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="2" Path="E:/1BM22EC201/decoder/decoder.xpr">
+<Project Version="7" Minor="2" Path="D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/decoder/decoder.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="3a1abdd1dfc34afea1cffb4292819a02"/>
@@ -25,6 +25,13 @@
         </FileInfo>
       </File>
       <File Path="$PSRCDIR/sources_1/new/decoder2x4.v">
+        <FileInfo>
+          <Attr Name="UsedIn" Val="synthesis"/>
+          <Attr Name="UsedIn" Val="implementation"/>
+          <Attr Name="UsedIn" Val="simulation"/>
+        </FileInfo>
+      </File>
+      <File Path="$PSRCDIR/sources_1/new/decoder_data.v">
         <FileInfo>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>

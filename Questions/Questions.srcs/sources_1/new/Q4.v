@@ -40,3 +40,17 @@ module Q4(
                 Y = 3'b011;
         end
 endmodule
+
+module clk20(clk);
+output reg clk;
+initial 
+begin
+assign clk = 0;
+#100 $finish;
+forever
+fork 
+#5 clk = 0;
+#15 clk = 1;
+join
+end
+endmodule

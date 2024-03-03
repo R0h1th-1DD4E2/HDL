@@ -26,7 +26,7 @@ module mux_gate_4_1(
     );
     
     wire s0bar , s1bar, i0, i1, i2, i3;
-    not(sobar,S0);
+    not(s0bar,S0);
     not(s1bar,S1);
     and(i0,s0bar,s1bar,I0);
     and(i1,S0,s1bar,I1);

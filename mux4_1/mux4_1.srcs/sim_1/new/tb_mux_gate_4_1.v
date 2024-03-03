@@ -24,13 +24,17 @@ module tb_mux_gate_4_1;
     reg rS0, rS1, rI0, rI1, rI2, rI3;
     wire wY;
     
-    case_mux dut(rS1, rS0, rI0, rI1, rI2, rI3, wY);
+    mux_gate_4_1 dut(rS0, rS1, rI0, rI1, rI2, rI3, wY);
     initial
         begin
             rS0=1; rS1=1; rI0=0; rI1=0; rI2=0; rI3=1;
+            #1 rI3=0; rI0=1; rI1=1; rI2=1;
             #1 rS0=1; rS1=0; rI0=0; rI1=1; rI2=0; rI3=0;
+            #1 rI1=0; rI0=1; rI2=1; rI3=1;
             #1 rS0=0; rS1=1; rI0=0; rI1=0; rI2=1; rI3=0;
+            #1 rI2=0; rI0=1; rI1=1; rI3=1;
             #1 rS0=0; rS1=0; rI0=1; rI1=0; rI2=0; rI3=0;
+            #1 rI0=0; rI1=1; rI2=1; rI3=1;
             #1 $finish;
         end
 endmodule
