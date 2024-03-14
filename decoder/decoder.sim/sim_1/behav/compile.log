@@ -1,9 +1,8 @@
 Determining compilation order of HDL files.
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/1BM22EC201/decoder/decoder.srcs/sources_1/new/decoder.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module decoder
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/1BM22EC201/decoder/decoder.srcs/sources_1/new/decoder2x4.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module decoder2x4
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/1BM22EC201/decoder/decoder.srcs/sim_1/new/tb_decoder2x4.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_decoder2x4
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/1BM22EC201/decoder/decoder.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/decoder/decoder.srcs/sources_1/new/decoder_data.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_data
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/decoder/decoder.srcs/sim_1/new/tb_decoder_data.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_decoder_data
+WARNING: [VRFC 10-2019] loop variable declaration is not allowed in this mode of verilog [D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/decoder/decoder.srcs/sim_1/new/tb_decoder_data.v:39]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/decoder/decoder.sim/sim_1/behav/glbl.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module glbl

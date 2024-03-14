@@ -1,10 +1,10 @@
 #-----------------------------------------------------------
 # Webtalk v2014.4 (64-bit)
-# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
 # IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
-# Start of session at: Thu Dec 28 10:46:10 2023
-# Process ID: 10544
-# Log file: E:/1BM22EC201/decoder/decoder.sim/sim_1/behav/webtalk.log
-# Journal file: E:/1BM22EC201/decoder/decoder.sim/sim_1/behav\webtalk.jou
+# Start of session at: Wed Mar 06 19:18:58 2024
+# Process ID: 4284
+# Log file: D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/decoder/decoder.sim/sim_1/behav/webtalk.log
+# Journal file: D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/decoder/decoder.sim/sim_1/behav\webtalk.jou
 #-----------------------------------------------------------
-source E:/1BM22EC201/decoder/decoder.sim/sim_1/behav/xsim.dir/tb_decoder_behav/webtalk/xsim_webtalk.tcl -notrace
+source D:/Rohit_V/Documents/Codes/VS -notrace

@@ -1,11 +1,9 @@
 Determining compilation order of HDL files.
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/1BM22EC201/CLA/CLA.srcs/sources_1/new/fadd.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module fadd
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/1BM22EC201/CLA/CLA.srcs/sources_1/new/CLL.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/CLA/CLA.srcs/sources_1/new/CLL.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module CLL
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/1BM22EC201/CLA/CLA.srcs/sources_1/new/CLAdder.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module CLAdder
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/1BM22EC201/CLA/CLA.srcs/sim_1/new/tb_cladd.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_cladd
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/1BM22EC201/CLA/CLA.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/CLA/CLA.srcs/sources_1/new/CLA.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CLA
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/CLA/CLA.srcs/sim_1/new/tb_cla.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_cla
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/CLA/CLA.sim/sim_1/behav/glbl.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module glbl

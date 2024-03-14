@@ -1,15 +1,12 @@
 #-----------------------------------------------------------
 # Webtalk v2014.4 (64-bit)
-# SW Build 1071353 on Tue Nov 18 18:29:27 MST 2014
+# SW Build 1071353 on Tue Nov 18 18:24:04 MST 2014
 # IP Build 1070531 on Tue Nov 18 01:10:18 MST 2014
-# Start of session at: Thu Feb 15 10:40:19 2024
-# Process ID: 2272
-# Log file: E:/1BM22EC201/USR/USR.sim/sim_1/behav/webtalk.log
-# Journal file: E:/1BM22EC201/USR/USR.sim/sim_1/behav\webtalk.jou
+# Start of session at: Thu Mar 14 01:03:20 2024
+# Process ID: 9580
+# Log file: D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/USR/USR.sim/sim_1/behav/webtalk.log
+# Journal file: D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/USR/USR.sim/sim_1/behav\webtalk.jou
 #-----------------------------------------------------------
-source E:/1BM22EC201/USR/USR.sim/sim_1/behav/xsim.dir/tb_USR_behav/webtalk/xsim_webtalk.tcl -notrace
-
-    while executing
-"webtalk_transmit -clientid 3925128328 -regid "210997196_1777505744_0_125" -xml E:/1BM22EC201/USR/USR.sim/sim_1/behav/xsim.dir/tb_USR_behav/webtalk/usa..."
-    (file "E:/1BM22EC201/USR/USR.sim/sim_1/behav/xsim.dir/tb_USR_behav/webtalk/xsim_webtalk.tcl" line 32)
-INFO: [Common 17-206] Exiting Webtalk at Thu Feb 15 10:40:20 2024...
+source D:/Rohit_V/Documents/Codes/VS -notrace
+couldn't read file "D:/Rohit_V/Documents/Codes/VS": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Thu Mar 14 01:03:20 2024...

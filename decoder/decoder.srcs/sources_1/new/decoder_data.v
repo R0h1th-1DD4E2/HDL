@@ -21,6 +21,14 @@
 
 
 module decoder_data(
-
+    input [1:0]I,
+    input E,
+    output [3:0]Y
     );
+
+    assign Y[0] = ~I[0] & ~I[1] & E;
+    assign Y[1] = I[0] & ~I[1] & E;
+    assign Y[2] = ~I[0] & I[1] & E;
+    assign Y[3] = I[0] & I[1] & E;
+
 endmodule
