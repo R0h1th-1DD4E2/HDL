@@ -25,7 +25,7 @@ module tb_adder_4bit;
     wire [3:0]sum;
     wire cout;
 
-adder_4bit i1(a,b,sum,cout);
+sub_4bit i1(a,b,sum,cout);
 initial
     begin
         a=4'b0000;b=4'b0000;

@@ -1,7 +1,7 @@
 @echo off
 set xv_path=D:\\Xilinx\\Vivado\\2014.4\\bin
-echo "xvlog -m64 -prj tb_seq_vlog.prj"
-call %xv_path%/xvlog  -m64 -prj tb_seq_vlog.prj -log compile.log
+echo "xvlog -m64 -prj tb_sequence_1010_vlog.prj"
+call %xv_path%/xvlog  -m64 -prj tb_sequence_1010_vlog.prj -log compile.log
 if "%errorlevel%"=="1" goto END
 if "%errorlevel%"=="0" goto SUCCESS
 :END

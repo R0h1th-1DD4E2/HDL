@@ -28,13 +28,13 @@ module sr_case(clk,S,R,q);
     if(clk)
         begin
             case({S,R})
-                2'b00:q <= q;
-                2'b01:q <= 1'b0;
-                2'b10:q <= 1'b1;
-                default:q <= 1'bx;
+                2'b00:q = q;
+                2'b01:q = 1'b0;
+                2'b10:q = 1'b1;
+                default:q = 1'bx;
             endcase 
         end
     else 
-        q = q;
+        q <= q;
     end
 endmodule

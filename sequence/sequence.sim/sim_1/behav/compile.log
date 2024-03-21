@@ -1,7 +1,7 @@
 Determining compilation order of HDL files.
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/sequence/sequence.srcs/sources_1/new/squence0110.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module squence0110
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/sequence/sequence.srcs/sim_1/new/tb_seq.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_seq
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/sequence/sequence.srcs/sources_1/new/moore_1010.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module moore_1010
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/sequence/sequence.srcs/sim_1/new/tb_sequence_1010.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_sequence_1010
 INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/sequence/sequence.sim/sim_1/behav/glbl.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module glbl

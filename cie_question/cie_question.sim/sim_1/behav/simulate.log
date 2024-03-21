@@ -1,0 +1,5 @@
+Vivado Simulator 2014.4
+Time resolution is 1 ps
+Reset Test
+Count Test
+$finish called at time : 210 ns : File "D:/Rohit_V/Documents/Codes/VS Code/My Learnings/HDL/cie_question/cie_question.srcs/sim_1/new/tb_q1.v" Line 74
