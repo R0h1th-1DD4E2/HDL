@@ -2,3 +2,6 @@ Running: xsim.dir/tb_ring_count_behav/xsimk.exe -simmode gui -wdb tb_ring_count_
 Design successfully loaded
 Design Loading Memory Usage: 22828 KB (Peak: 22828 KB)
 Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 23180 KB (Peak: 23180 KB)
+Simulation CPU Usage: 46 ms
